@@ -1,4 +1,4 @@
-import x from "../src/img/i8.png";
+import x from "../img/i8.png";
 export default class Widget {
   init() {
     const btn = document.querySelector(".red_button");
